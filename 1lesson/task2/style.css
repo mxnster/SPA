@@ -1,0 +1,45 @@
+#body {
+    background-color: cadetblue;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+img {
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-right: 20px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: "Open Sans", Times, serif;
+    margin-left: 10%;
+
+    padding: 14px;
+    border-radius: 5px;
+    align-content: center;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 4%;
+    margin-top: 2%;
+    background-color: #FBEEC1;
+    border-radius: 5px;
+}
+#discription {
+    display: none;
+    width: 80%;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
