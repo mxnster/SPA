@@ -1,0 +1,20 @@
+[
+    {
+        "address": "Пушкина, 23",
+        "avgAmountClients": 1000,
+        "square": 670,
+        "year": 2018
+    },
+    {
+        "address": "Чкалова, 99",
+        "avgAmountClients": 1250,
+        "square": 890,
+        "year": 2016
+    },
+    {
+        "address": "Красная, 13",
+        "avgAmountClients": 700,
+        "square": 480,
+        "year": 2019
+    }
+]

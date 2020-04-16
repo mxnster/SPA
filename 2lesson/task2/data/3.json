@@ -1,0 +1,26 @@
+[
+    {
+        "address": "Чюрлениса, 23",
+        "avgAmountClients": 500,
+        "square": 270,
+        "year": 2018
+    },
+    {
+        "address": "Притыцкого, 93",
+        "avgAmountClients": 1670,
+        "square": 890,
+        "year": 2010
+    },
+    {
+        "address": "Скрипникова, 15а",
+        "avgAmountClients": 700,
+        "square": 480,
+        "year": 2019
+    },
+    {
+        "address": "Шаранговича, 51",
+        "avgAmountClients": 1300,
+        "square": 1680,
+        "year": 2016
+    }
+]
