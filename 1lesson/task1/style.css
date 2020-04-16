@@ -1,0 +1,11 @@
+#table {
+    width: 50%;
+    border: 1px solid #343a40;
+}
+
+td, thead {
+    text-align: center;
+}
+th {
+    cursor: pointer;
+}
