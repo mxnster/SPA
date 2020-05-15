@@ -1,0 +1,32 @@
+[
+    {
+        "address": "Дзержинского, 123",
+        "avgAmountClients": 2000,
+        "square": 2000,
+        "year": 2016
+    },
+    {
+        "address": "Независимости, 21",
+        "avgAmountClients": 1000,
+        "square": 890,
+        "year": 2012
+    },
+    {
+        "address": "Карла Либкнехта, 148",
+        "avgAmountClients": 700,
+        "square": 480,
+        "year": 2015
+    },
+    {
+        "address": "Корженевского, 26",
+        "avgAmountClients": 900,
+        "square": 640,
+        "year": 2017
+    },
+    {
+        "address": "Денисовская, 8",
+        "avgAmountClients": 1200,
+        "square": 860,
+        "year": 2014
+    }
+]
