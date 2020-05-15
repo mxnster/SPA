@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone XS",
+        "description": "New brand iphone with premium design.",
+        "img": "https://content2.onliner.by/catalog/device/header/06d2a5dff4bf1f4b4d6c43a73a10b48e.jpeg",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "name": "iPad Pro",
+        "description": "Your next computer is not a computer.",
+        "img": "https://content2.onliner.by/catalog/device/header/09fa7eeda201875e48804d0617d3802b.jpeg",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "name": "AirPods Pro",
+        "description": "AirPods deliver effortless, all-day audio on the go.",
+        "img": "https://content2.onliner.by/catalog/device/main/9323dae0382cd390dfccf59e946d767f.jpeg",
+        "stock": 15
+    }
+]
